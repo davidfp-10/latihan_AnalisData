@@ -7,5 +7,5 @@
 
 **Refleksi Siswa**
 1. Apa hal baru yang kamu pelajari dari kegiatan analisis dan visualisasi data? = Hal baru yang saya pelajari adalah cara mengubah data mentah menjadi informasi yang bermakna melalui proses analisis dan visualisasi, serta bagaimana grafik dan diagram dapat membantu menemukan pola, tren, dan hubungan yang sebelumnya tidak terlihat.
-2. Kesulitan apa yang kamu alami dalam membuat grafik? =
-3. Menurtu kamu AI apa membantu dalam analysis sebua data? = 
+2. Kesulitan apa yang kamu alami dalam membuat grafik? = sering eror
+3. Menurtu kamu AI apa membantu dalam analysis sebua data? = ChatGPT, Copilot, Gemini
